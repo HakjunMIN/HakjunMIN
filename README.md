@@ -1,8 +1,8 @@
 # Welcome
 
-## Highlighted Repos
+## Highlighted OSS Repos
 
-### AI/ML
+### AI
 
 * Kubeflow with Karpenter for LLMOps: https://github.com/HakjunMIN/kubeflow-karpenter-aks
 * LLMOps Pipelining with Evaluation Flow: https://github.com/HakjunMIN/llmops-content
