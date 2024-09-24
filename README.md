@@ -8,7 +8,7 @@
 * LLMOps Pipelining with Evaluation Flow using Github Action: https://github.com/HakjunMIN/llmops-content
 * Lab for AI Agentic workflow with Autogen: https://github.com/HakjunMIN/autogen_sample
   * PoC for Text2SQL Fewshot on Vector and Autogen: https://github.com/HakjunMIN/autogen_sample/blob/main/text2sql/kb-autogen_sql.ipynb
-* Azure OPENAI with Azure Search running on Kubernetes: https://github.com/HakjunMIN/k8s-azure-search-openai
+* RAG on Kubernetes using Azure OPENAI with Azure Search: https://github.com/HakjunMIN/k8s-azure-search-openai
 * Autogen Backend API supporting streaming: https://github.com/HakjunMIN/autogen-api
 * Simple RAG Indexer with notebooks: https://github.com/HakjunMIN/simple-rag-indexer
 
