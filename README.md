@@ -29,4 +29,4 @@
 ### Etc.
 
 * Running Minecraft Server on Kubernetes: https://github.com/HakjunMIN/mcs-iks
-* Training lab for Kuberenetes with Istio: https://github.com/HakjunMIN/kubetrain 
+* Training lab for Kubernetes with Istio: https://github.com/HakjunMIN/kubetrain 
