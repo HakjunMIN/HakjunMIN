@@ -14,7 +14,7 @@
 
 ### App modernization/DevOps
 
-* Implement Stage and Dev environment for Spring Microservice: https://github.com/HakjunMIN/spring-petclinic-cloud
+* Implement Kubernetes Stage and Dev environment for Spring Microservice: https://github.com/HakjunMIN/spring-petclinic-cloud
 * Implement Full DevOps lifecycle for Spring: https://github.com/HakjunMIN/spring-petclinic-monolith
 * Implement Enterprise CI/CD using Github action and Azure Devops for Java Apps: https://github.com/HakjunMIN/azure-petclinic
   
