@@ -6,8 +6,9 @@
 
 * End to End RAG Evaluation Automation: https://github.com/HakjunMIN/e2e-rag-evaluation
 * RAG with GPT Realtime API Handson (Customized): https://github.com/HakjunMIN/realtime-assistant
-* GraphRAG Handson: (Soon)
-* New Autogen 0.4 Samples using agentchat: https://github.com/HakjunMIN/autogen4-sample
+* GraphRAG Handson: https://github.com/HakjunMIN/graphrag-playground
+* Semantic Kernel MCP tools integration (including workshop material): https://github.com/HakjunMIN/sk-workshop?tab=readme-ov-file#model-context-protocol-mcp--with-semantic-kernel
+* New Autogen Samples using agentchat and core: https://github.com/HakjunMIN/autogen4-sample
 * Kubeflow with Karpenter for LLMOps: https://github.com/HakjunMIN/kubeflow-karpenter-aks (Presented at [CNCF Korea Day 2024](https://kcd-korea.net/))
 * LLMOps Pipelining with Evaluation Flow using Github Action: https://github.com/HakjunMIN/llmops-content
 * Lab for AI Agentic workflow with Autogen: https://github.com/HakjunMIN/autogen_sample
