@@ -17,6 +17,12 @@
 * Autogen Backend API supporting streaming: https://github.com/HakjunMIN/autogen-api
 * Simple RAG Indexer with notebooks: https://github.com/HakjunMIN/simple-rag-indexer
 
+### AI Coding Squad
+
+* CONNECT Chatbot (Global hackthon '24, MSFT Private): https://github.com/Azure-Samples/ai-coding-squad
+* Vibe coding workshop: https://github.com/HakjunMIN/python-workshop
+* Beginner workshop for Azure AI (elaborating): https://github.com/HakjunMIN/azure-ai-workshop 
+
 ### App modernization/DevOps
 
 * Implement Kubernetes Stage and Dev environment for Spring Microservice: https://github.com/HakjunMIN/spring-petclinic-cloud
