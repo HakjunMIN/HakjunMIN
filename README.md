@@ -4,6 +4,7 @@
 
 ### AI
 
+* Multimodal Agent Chatbot usiing MCP Server + Realtime Audio + Chainlit: https://github.com/HakjunMIN/mcp-realtime-chainlit
 * Web Search Agent (Query rewriter + Search crawler + Query Planner, Private): https://github.com/Azure/general-inquiry-chatbot/
 * End to End RAG Evaluation Automation: https://github.com/HakjunMIN/e2e-rag-evaluation
 * RAG with GPT Realtime API Handson (Customized): https://github.com/HakjunMIN/realtime-assistant
